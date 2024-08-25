@@ -1,1 +1,1 @@
-![Screenshot](Assests.xcassets/Colors.png)
+![Screenshot](RandomColors/Assests.xcassets/Colors.png)
